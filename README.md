@@ -8,8 +8,7 @@ Hi, I'm Hien, a student from HCMUS. My passion for software lies with dreaming u
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
   
 - 💬 Ask me about anything, I am happy to help,gmail: dvhqnn1@gmail.com;
 - 📫 How to reach me: [@hiendang7613](https://www.facebook.com/hiendang7613/);
@@ -25,5 +24,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hiendang7613&show_icons=true&theme=gotham&count_private=true" alt="hiendang7613" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiendang7613" alt="hiendang7613" />
+<table>
+<thead>
+<tr>
+<th><img src="https://github-readme-stats.vercel.app/api?username=hiendang7613&show_icons=true&theme=gotham&count_private=true&hide_border=true" width="600" alt="hiendang7613"/></th>
+<th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiendang7613&layout=compact&theme=buefy&hide_border=true" width="520" alt="hiendang7613"/></th>
+</tr>
+</thead>
+</table>
