@@ -8,7 +8,7 @@ Welcome to my GitHub homepage, where my passion for Deep learning with dreaming 
 
 Hi, I'm Hien, a student from HCMUS. I'm an avid explorer of the fascinating world of artificial intelligence, with a particular focus on deep learning. Here, you'll find a collection of my projects, experiments, and research endeavors aimed at pushing the boundaries of what's possible in this rapidly evolving field.
 
-As an enthusiast of deep learning, I believe in its potential to revolutionize various domains, from computer vision and natural language processing to robotics and healthcare. Through my GitHub repositories, I strive to contribute to this transformative technology by sharing my code, insights, and discoveries.
+As an enthusiast of deep learning, I believe in its potential to revolutionize various domains, from computer vision and natural language processing. Through my GitHub repositories, I strive to contribute to this transformative technology by sharing my code, insights, and discoveries.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
   
